@@ -73,6 +73,30 @@
         "threshold": 10,
         "seconds": 1,
         "message": "ICMP Flood detected "
+    },
+    {
+        "action": "alert",
+        "protocol": "tcp",
+        "attack_type": "flood",
+        "src_ip": "any",
+        "src_port": "any",
+        "dst_ip": "any",
+        "dst_port": "80",
+        "threshold": 40,
+        "seconds": 10,
+        "message": "HTTP flood detected!: "
+    },
+    {
+        "action": "alert",
+        "protocol": "tcp",
+        "attack_type": "ssh_brute",
+        "src_ip": "any",
+        "src_port": "any",
+        "dst_ip": "any",
+        "dst_port": "22",
+        "threshold": 5,
+        "seconds": 30,
+        "message": "SSH brute force detected!: "
     }
 
 ]
