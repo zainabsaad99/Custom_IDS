@@ -54,18 +54,18 @@ This project simulates several types of network attacks for educational and rese
 - **Inputs:**
   - **Target IP:** The IP address of the victim.
  
-## 6. **HTTP Flood Attack**
+### 6. **HTTP Flood Attack**
 - **Description:** Sends a large number of HTTP GET request packets to overwhelm the target's network or host and cause denial-of-service for legitimate requests.
 - **Inputs:**
-  - **Target IP:**: Specify the IP address of the target machine
+  - **Target IP**: Specify the IP address of the target machine
   - **Port #**: Specify the target port, or type 'http' to select port 80
  
-## 7. **SSH Brute Attack**
+### 7. **SSH Brute Attack**
 - **Description** The attack machine references a list of username-password combinations and repeatedly attempts (automated to be quick) to log in and gain access to the remote target server.
 - **Inputs**
-  - **Target IP:**: Specify the IP address of the target machine
-  - **SSH username:**: Enter the username of the server being targeted
-  - **Password list directory:**: Specify the directory in the attacker machine that contains the list of passwords to be referenced. I found a "10k most common" passwords list on GitHub and used it. It is included in the attack folder as "pass.txt".
+  - **Target IP**: Specify the IP address of the target machine
+  - **SSH username**: Enter the username of the server being targeted
+  - **Password list directory**: Specify the directory in the attacker machine that contains the list of passwords to be referenced. I found a "10k most common" passwords list on GitHub and used it. It is included in the attack folder as "pass.txt".
       
 
 ## Repository Contents
