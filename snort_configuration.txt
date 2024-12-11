@@ -29,4 +29,9 @@ alert udp any any -> 192.168.226.84 any (msg:"DNS DOS attack"; threshold:type bo
 alert icmp any any -> any any (msg:"ICMP Flood  Detected"; itype:8; detection_filter:track by_dst, count 10, seconds 1; sid:1000005; rev:1;)
 
 
+# SSH brute force
+alert tcp any any -> any 22 (msg:"SSH brute force attempt detected!"; flow:to_server, established; content:"ssh"; nocase; threshold: type both, track by_src, count 5, seconds 30; metadata: service http; sid:1000006; rev:1;)
 
+      
+# HTTP Flood
+alert tcp any any -> any 80 (msg:"HTTP flood attack detected!"; flow:to_server; flags:A+; content:"GET / HTTP/1.1"; nocase; threshold: type both, track by_src, count 40, seconds 10; metadata: service http; sid:1000007; rev:1;)
