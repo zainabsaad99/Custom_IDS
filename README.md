@@ -14,7 +14,7 @@ paper an analysis will be performed to check the performance
 of the IDS that is a hybrid motoring comparing to snort which
 is a passive monitoring
 
-#### Demo YouTube link
+#### YouTube link to demo
 https://youtu.be/LHKV3YwuDPw?si=sBt38L_pbfmXhqfu
 
 ## Rule File
