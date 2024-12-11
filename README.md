@@ -13,6 +13,10 @@ paper, an IDS is proposed that detects ARP spoofing, through this
 paper an analysis will be performed to check the performance
 of the IDS that is a hybrid motoring comparing to snort which
 is a passive monitoring
+
+#### Demo YouTube link
+https://youtu.be/LHKV3YwuDPw?si=sBt38L_pbfmXhqfu
+
 ## Rule File
 This file contains rule where it should be updated based on your network IP
 ## Attacks and Required Inputs
