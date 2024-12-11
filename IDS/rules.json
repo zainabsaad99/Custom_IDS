@@ -1,0 +1,78 @@
+[
+   
+    {
+        "action": "alert",
+        "protocol": "tcp",
+        "attack_type": "flood",
+        "src_ip": "any",
+        "src_port": "any",
+        "dst_ip": "192.168.181.84",
+        "dst_port": "80",
+        "threshold": 10,
+        "seconds": 1,
+        "message": "SYN Flood Detected "
+    },
+    {
+        "action": "alert",
+        "protocol": "arp",
+        "attack_type": "spoofing",
+        "src_ip": "any",
+        "src_port": "any",
+        "dst_ip": "any",
+        "dst_port": "any",
+        "threshold": 1,
+        "seconds": 1,
+        "message": "ARP Spoofing "
+    },
+
+    
+    {
+        "action": "alert",
+        "protocol": "udp",
+        "attack_type": "flood",
+        "src_ip": "any",
+        "src_port": "any",
+        "dst_ip": "192.168.181.84",
+        "dst_port": "80",
+        "threshold": 10,
+        "seconds": 1,
+        "message": "UDP Flood Detected "
+    },
+    {
+        "action": "alert",
+        "protocol": "tcp",
+        "attack_type": "scan",
+        "src_ip": "any",
+        "src_port": "any",
+        "dst_ip": "192.168.181.84",
+        "dst_port": "any",
+        "threshold": 1,
+        "seconds": 1,
+        "message": "port scanning Detected "
+    },
+    {
+        "action": "alert",
+        "protocol": "udp",
+        "attack_type": "dns_amp",
+        "src_ip": "any",
+        "src_port": "any",
+        "dst_ip": "any",
+        "dst_port": "any",
+        "threshold": 10,
+        "seconds": 1,
+        "message": "DNS flood Detected "
+    },
+    {
+        "action": "alert",
+        "protocol": "icmp",
+        "attack_type": "flood",
+        "src_ip": "any",
+        "src_port": "any",
+        "dst_ip": "192.168.181.84",
+        "dst_port": "any",
+        "threshold": 10,
+        "seconds": 1,
+        "message": "ICMP Flood detected "
+    }
+
+]
