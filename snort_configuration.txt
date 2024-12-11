@@ -1,0 +1,32 @@
+""zainab saad""
+- Main config:
+ sudo nano /etc/snort/snort.debian.conf 
+ # this is for main file configuration such as Local network
+
+- Config:
+sudo nano /etc/snort/snort.conf
+# here can add range of home_net, output_location, etc
+
+- Rules:
+ sudo nano /etc/snort/rules/local.rules
+ Here to add snort rules which are the following:
+
+# Port scaning 
+alert tcp any any -> 192.168.226.84 1:65355 (msg:"Port scan detected"; flags:S,12; threshold:type threshold, track by_s, count 20, seconds 60; sid:1000001; rev:1;)
+
+
+# SYN Flood Detection Rule
+alert tcp any any -> 192.168.226.84 80 (flags: S; msg:"Possible TCP DoS"; flow: stateless; detection_filter: track by_s, count 30, seconds 1; sid:1000002;)
+
+
+# UDP flood
+alert udp any any -> 192.168.226.84 80 (msg:"UDP Flood Attack Detected"; threshold:type both, track by_dst, count 50, seconds 1; sid:1000003; rev:1;)
+
+# DNS Flood
+alert udp any any -> 192.168.226.84 any (msg:"DNS DOS attack"; threshold:type both, track by_dst, count 50, seconds 1; sid:1000004; rev:1;)
+
+# ICMP Flood
+alert icmp any any -> any any (msg:"ICMP Flood  Detected"; itype:8; detection_filter:track by_dst, count 10, seconds 1; sid:1000005; rev:1;)
+
+
+
