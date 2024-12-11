@@ -1,0 +1,41 @@
+
+Analyzing ARP flood attacks
+Total attack packets: 400
+Packets detected by Snort: 0
+Packets detected by Custom IDS: 200
+Packets missed by Snort: 400
+Packets missed by Custom IDS: 200
+
+Snort Detection Metrics (ARP attacks):
+True Positives: 0
+False Positives: 0
+True Negatives: 0
+False Negatives: 400
+
+Custom IDS Detection Metrics (ARP attacks):
+True Positives: 200
+False Positives: 0
+True Negatives: 0
+False Negatives: 200
+
+Snort IDS Metrics (ARP attacks):
++-----------------------+---------+
+| Metric                |   Value |
++=======================+=========+
+| Detection Rate/Recall |       0 |
++-----------------------+---------+
+| Precision             |       0 |
++-----------------------+---------+
+| F1 Score              |       0 |
++-----------------------+---------+
+
+Custom IDS Metrics (ARP attacks):
++-----------------------+----------+
+| Metric                |    Value |
++=======================+==========+
+| Detection Rate/Recall | 0.5      |
++-----------------------+----------+
+| Precision             | 1        |
++-----------------------+----------+
+| F1 Score              | 0.666667 |
++-----------------------+----------+

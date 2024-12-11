@@ -1,0 +1,41 @@
+
+Analyzing UDP flood attacks
+Total attack packets: 199
+Packets detected by Snort: 7
+Packets detected by Custom IDS: 190
+Packets missed by Snort: 192
+Packets missed by Custom IDS: 9
+
+Snort Detection Metrics (UDP attacks):
+True Positives: 7
+False Positives: 0
+True Negatives: 0
+False Negatives: 192
+
+Custom IDS Detection Metrics (UDP attacks):
+True Positives: 190
+False Positives: 0
+True Negatives: 0
+False Negatives: 9
+
+Snort IDS Metrics (UDP attacks):
++-----------------------+-----------+
+| Metric                |     Value |
++=======================+===========+
+| Detection Rate/Recall | 0.0351759 |
++-----------------------+-----------+
+| Precision             | 1         |
++-----------------------+-----------+
+| F1 Score              | 0.0679612 |
++-----------------------+-----------+
+
+Custom IDS Metrics (UDP attacks):
++-----------------------+----------+
+| Metric                |    Value |
++=======================+==========+
+| Detection Rate/Recall | 0.954774 |
++-----------------------+----------+
+| Precision             | 1        |
++-----------------------+----------+
+| F1 Score              | 0.976864 |
++-----------------------+----------+

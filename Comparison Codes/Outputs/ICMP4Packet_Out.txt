@@ -1,0 +1,41 @@
+
+Analyzing ICMP flood attacks
+Total attack packets: 199
+Packets detected by Snort: 185
+Packets detected by Custom IDS: 190
+Packets missed by Snort: 14
+Packets missed by Custom IDS: 9
+
+Snort Detection Metrics (ICMP attacks):
+True Positives: 185
+False Positives: 0
+True Negatives: 0
+False Negatives: 14
+
+Custom IDS Detection Metrics (ICMP attacks):
+True Positives: 190
+False Positives: 0
+True Negatives: 0
+False Negatives: 9
+
+Snort IDS Metrics (ICMP attacks):
++-----------------------+----------+
+| Metric                |    Value |
++=======================+==========+
+| Detection Rate/Recall | 0.929648 |
++-----------------------+----------+
+| Precision             | 1        |
++-----------------------+----------+
+| F1 Score              | 0.963542 |
++-----------------------+----------+
+
+Custom IDS Metrics (ICMP attacks):
++-----------------------+----------+
+| Metric                |    Value |
++=======================+==========+
+| Detection Rate/Recall | 0.954774 |
++-----------------------+----------+
+| Precision             | 1        |
++-----------------------+----------+
+| F1 Score              | 0.976864 |
++-----------------------+----------+

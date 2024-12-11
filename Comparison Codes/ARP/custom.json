@@ -1,0 +1,1658 @@
+[
+    {
+        "datetime": "2024-12-09T20:22:02",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:03",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:05",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:05",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:07",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:07",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:09",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:09",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:11",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:11",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:13",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:13",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:16",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:16",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:18",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:18",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:20",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:20",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:22",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:22",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:24",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:25",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:27",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:27",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:29",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:29",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:31",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:31",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:33",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:33",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:36",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:36",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:38",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:38",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:40",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:40",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:43",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:43",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:45",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:46",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:48",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:48",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:50",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:50",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:52",
+        "attack": "port scanning",
+        "source_ip": "port scanning Detected ",
+        "source_port": " 152.199.19.160",
+        "destination_ip": "192.168.0.105",
+        "destination_port": "39852"
+    },
+    {
+        "datetime": "2024-12-09T20:22:52",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:52",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:52",
+        "attack": "port scanning",
+        "source_ip": "port scanning Detected ",
+        "source_port": " 152.199.19.160",
+        "destination_ip": "192.168.0.105",
+        "destination_port": "39846"
+    },
+    {
+        "datetime": "2024-12-09T20:22:54",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:54",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:54",
+        "attack": "port scanning",
+        "source_ip": "port scanning Detected ",
+        "source_port": " 152.199.19.160",
+        "destination_ip": "192.168.0.105",
+        "destination_port": "39846"
+    },
+    {
+        "datetime": "2024-12-09T20:22:56",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:56",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:22:58",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:22:58",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:02",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:02",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:04",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:04",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:06",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:06",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:08",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:08",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:10",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:11",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:13",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:14",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:16",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:16",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:18",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:18",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:21",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:21",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:23",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:23",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:25",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:25",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:27",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:27",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:29",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:29",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:31",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:32",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:34",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:34",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:36",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:36",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:38",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:38",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:39",
+        "attack": "port scanning",
+        "source_ip": "port scanning Detected ",
+        "source_port": " 172.16.29.46",
+        "destination_ip": "192.168.0.105",
+        "destination_port": "54486"
+    },
+    {
+        "datetime": "2024-12-09T20:23:39",
+        "attack": "port scanning",
+        "source_ip": "port scanning Detected ",
+        "source_port": " 34.117.188.166",
+        "destination_ip": "192.168.0.105",
+        "destination_port": "45402"
+    },
+    {
+        "datetime": "2024-12-09T20:23:40",
+        "attack": "port scanning",
+        "source_ip": "port scanning Detected ",
+        "source_port": " 213.204.103.18",
+        "destination_ip": "192.168.0.105",
+        "destination_port": "53918"
+    },
+    {
+        "datetime": "2024-12-09T20:23:40",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:40",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:42",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:42",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:45",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:45",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:47",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:47",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:49",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:50",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:52",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:52",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:54",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:54",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:56",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:56",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:23:58",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:23:58",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:01",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:01",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:03",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:03",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:05",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:05",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:08",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:08",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:10",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:10",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:12",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:12",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:14",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:14",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:16",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:17",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:19",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:19",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:21",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:21",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:23",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:23",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:25",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:25",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:27",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:27",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:29",
+        "attack": "port scanning",
+        "source_ip": "port scanning Detected ",
+        "source_port": " 185.125.190.49",
+        "destination_ip": "192.168.0.105",
+        "destination_port": "47366"
+    },
+    {
+        "datetime": "2024-12-09T20:24:29",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:30",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:32",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:32",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:34",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:34",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:36",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:36",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:38",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:38",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:40",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:40",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:42",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:43",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:45",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:45",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:47",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:47",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:49",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:49",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:52",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:52",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:54",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:54",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:56",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:56",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:24:58",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:24:58",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:25:00",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:25:00",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:25:02",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:25:03",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:25:05",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:25:05",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:25:07",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:25:07",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:25:09",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:25:10",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:25:12",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:25:12",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:25:14",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:25:14",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:25:16",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:25:16",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:25:18",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:25:18",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:25:20",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:25:20",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:25:22",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:25:23",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:25:25",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:25:25",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:25:27",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:25:27",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:25:29",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:25:29",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:25:31",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:25:31",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:25:33",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:25:33",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:25:35",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:25:35",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:25:37",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:25:38",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:25:40",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:25:40",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:25:42",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:25:42",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    },
+    {
+        "datetime": "2024-12-09T20:25:44",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.105.08",
+        "destination_port": "00"
+    },
+    {
+        "datetime": "2024-12-09T20:25:44",
+        "attack": "ARP Spoofing",
+        "source_ip": "ARP Spoofing ",
+        "source_port": " 192.168.0.106.08",
+        "destination_ip": "192.168.0.1.c8",
+        "destination_port": "3a"
+    }
+]

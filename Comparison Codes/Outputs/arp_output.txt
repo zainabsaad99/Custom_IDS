@@ -1,0 +1,44 @@
+
+Gateway ARP Spoofing Attack Analysis:
+Total attack packets: 100
+Detected packets: 100
+Missed packets: 0
+
+Victim ARP Spoofing Attack Analysis:
+Total attack packets: 100
+Detected packets: 100
+Missed packets: 0
+
+Gateway ARP Spoofing Detection Metrics:
+True Positives: 100
+False Positives: 0
+True Negatives: 0
+False Negatives: 0
+
+Victim ARP Spoofing Detection Metrics:
+True Positives: 100
+False Positives: 0
+True Negatives: 0
+False Negatives: 0
+
+Gateway ARP Spoofing Performance Metrics:
++-----------------------+---------+
+| Metric                |   Value |
++=======================+=========+
+| Detection Rate/Recall |       1 |
++-----------------------+---------+
+| Precision             |       1 |
++-----------------------+---------+
+| F1 Score              |       1 |
++-----------------------+---------+
+
+Victim ARP Spoofing Performance Metrics:
++-----------------------+---------+
+| Metric                |   Value |
++=======================+=========+
+| Detection Rate/Recall |       1 |
++-----------------------+---------+
+| Precision             |       1 |
++-----------------------+---------+
+| F1 Score              |       1 |
++-----------------------+---------+

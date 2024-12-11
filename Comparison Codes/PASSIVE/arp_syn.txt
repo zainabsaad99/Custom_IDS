@@ -1,0 +1,59 @@
+
+SYN Flood Detection Comparison:
+Total SYN flood packets: 200
+Custom IDS detections: 191
+
+Custom IDS Metrics:
++-----------------------+----------+
+| Metric                |    Value |
++=======================+==========+
+| Detection Rate/Recall | 0.955    |
++-----------------------+----------+
+| Precision             | 1        |
++-----------------------+----------+
+| F1 Score              | 0.976982 |
++-----------------------+----------+
+
+ARP Spoofing Attack Analysis:
+Total attack packets: 40
+Detected packets: 39
+Missed packets: 1
+
+ARP Spoofing Detection Metrics:
+True Positives: 39
+False Positives: 0
+True Negatives: 0
+False Negatives: 1
+
+ARP Spoofing Performance Metrics:
++-----------------------+----------+
+| Metric                |    Value |
++=======================+==========+
+| Detection Rate/Recall | 0.975    |
++-----------------------+----------+
+| Precision             | 1        |
++-----------------------+----------+
+| F1 Score              | 0.987342 |
++-----------------------+----------+
+
+Snort SYN Flood Detection Analysis:
+Total attack packets: 200
+Detected packets: 181
+Missed packets: 19
+
+Snort Detection Metrics:
+True Positives: 181
+False Positives: 0
+True Negatives: 0
+False Negatives: 19
+
+Snort Performance Metrics:
++-----------------------+----------+
+| Metric                |    Value |
++=======================+==========+
+| Detection Rate/Recall | 0.905    |
++-----------------------+----------+
+| Precision             | 1        |
++-----------------------+----------+
+| F1 Score              | 0.950131 |
++-----------------------+----------+

@@ -1,0 +1,41 @@
+
+Analyzing SCAN flood attacks
+Total attack packets: 100
+Packets detected by Snort: 100
+Packets detected by Custom IDS: 100
+Packets missed by Snort: 0
+Packets missed by Custom IDS: 0
+
+Snort Detection Metrics (SCAN attacks):
+True Positives: 100
+False Positives: 0
+True Negatives: 0
+False Negatives: 0
+
+Custom IDS Detection Metrics (SCAN attacks):
+True Positives: 100
+False Positives: 0
+True Negatives: 0
+False Negatives: 0
+
+Snort IDS Metrics (SCAN attacks):
++-----------------------+---------+
+| Metric                |   Value |
++=======================+=========+
+| Detection Rate/Recall |       1 |
++-----------------------+---------+
+| Precision             |       1 |
++-----------------------+---------+
+| F1 Score              |       1 |
++-----------------------+---------+
+
+Custom IDS Metrics (SCAN attacks):
++-----------------------+---------+
+| Metric                |   Value |
++=======================+=========+
+| Detection Rate/Recall |       1 |
++-----------------------+---------+
+| Precision             |       1 |
++-----------------------+---------+
+| F1 Score              |       1 |
++-----------------------+---------+

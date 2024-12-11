@@ -1,0 +1,3 @@
+12/11-00:33:49.351609  [**] [1:1000002:1] SSH brute force attack detected! [**] [Priority: 0] {TCP} 10.0.2.8:40442 -> 10.0.2.15:22
+12/11-00:34:09.430506  [**] [1:1000002:1] SSH brute force attack detected! [**] [Priority: 0] {TCP} 10.0.2.8:59164 -> 10.0.2.15:22
+12/11-00:34:29.017200  [**] [1:1000002:1] SSH brute force attack detected! [**] [Priority: 0] {TCP} 10.0.2.8:32980 -> 10.0.2.15:22

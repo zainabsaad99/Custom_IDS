@@ -1,0 +1,2 @@
+here two attacks run at same time syn flood, icmp flood to see how both can handle this
+where both send 199 attack packet
