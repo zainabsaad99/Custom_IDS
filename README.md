@@ -65,7 +65,7 @@ This project simulates several types of network attacks for educational and rese
 - **Inputs**
   - **Target IP**: Specify the IP address of the target machine
   - **SSH username**: Enter the username of the server being targeted
-  - **Password list directory**: Specify the directory in the attacker machine that contains the list of passwords to be referenced. I found a "10k most common" passwords list on GitHub and used it. It is included in the attack folder as "pass.txt".
+  - **Password list directory**: Specify the directory in the attacker machine that contains the list of passwords to be referenced. I found a "10k most common" passwords list on GitHub and used it. It is included in this repository as "pass.txt".
       
 
 ## Repository Contents
