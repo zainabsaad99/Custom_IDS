@@ -1,8 +1,5 @@
-"""Zainab Saad
-   ID:202472448"""
 # To run IDS 
-
-#sudo python3 /home/vboxuser/IDS/IDS.py
+#sudo python3 /home/vboxuser/Intrusion_Detection_System/IDS.py
 # import libraries 
 from scapy.all import sniff
 import threading
@@ -12,10 +9,10 @@ from syn_flood import synflood_processor
 from port_scan import portscan_processor
 from udp_flood import udpflood_processor
 from icmp_flood import icmpflood_processor
-from create_arp_table import configure_local_arp_table
-# from test import icmpflood_processor
 from dns_amplifications import dns_amp_processor
 from arp_spoof import  arp_spoof_processor, arp_spoof_detector_thread
+from http_floodd import httpflood_processor 
+from ssh_bruteforce import ssh_bruteforce_processor
 # why sniffing is used?
 """ sniff is the process that capture and monitor  packets 
     importance of sniffing:
@@ -41,6 +38,10 @@ def sniffing_function(protocol):
     elif protocol == "ARPSpoofing":
         #sniff(filter="arp", prn=arp_spoof_processor, store=False)
         sniff(filter="arp", prn=arp_spoof_processor, store=False)
+    elif protocol == "HTTPFlood":
+        sniff(filter="tcp port 80", prn=httpflood_processor, store=0)
+    elif protocol == "SSHBruteForce":
+        sniff(filter="tcp port 22", prn=ssh_bruteforce_processor, store=0)
 
 if __name__ == "__main__":
     # why thread is used?
@@ -50,28 +51,35 @@ if __name__ == "__main__":
         2- Reduce latency that allow to run faster
         3- Allow analysis of different layers 
         4- It distribute workload across multiple CPU core"""
-   
+    
     # start sniffing packet for each attack types 
-    SYN_Flodd_Thread = threading.Thread(target=sniffing_function, args=("SYNFlood",))
-    Port_Scan_Thread = threading.Thread(target=sniffing_function, args=("PortScan",))
-    ICMP_Flood_Thread = threading.Thread(target=sniffing_function, args=("ICMPFlood",))
-    UDP_Flood_Thread = threading.Thread(target=sniffing_function, args=("UDPFlood",))
+    syn_flood_thread = threading.Thread(target=sniffing_function, args=("SYNFlood",))
+    port_scanning_thread = threading.Thread(target=sniffing_function, args=("PortScan",))
+    icmp_flood_thread = threading.Thread(target=sniffing_function, args=("ICMPFlood",))
+    udp_flood_thread = threading.Thread(target=sniffing_function, args=("UDPFlood",))
     DNS_amplification_thread= threading.Thread(target=sniffing_function, args=("DNSAmplification",))
-    ARP_Spoofing_Thread= threading.Thread(target=sniffing_function, args=("ARPSpoofing",))
+    arp_spoofing_thread= threading.Thread(target=sniffing_function, args=("ARPSpoofing",))
+    http_flood_thread = threading.Thread(target=sniffing_function, args=("HTTPFlood",))
+    ssh_bruteforce_thread = threading.Thread(target=sniffing_function, args=("SSHBruteForce",))
 
+   
     # After thread is ready start them 
     arp_spoof_detector_thread.start()
-    SYN_Flodd_Thread.start()
-    Port_Scan_Thread.start()
-    ICMP_Flood_Thread.start()
-    UDP_Flood_Thread.start()
+    syn_flood_thread.start()
+    port_scanning_thread.start()
+    icmp_flood_thread.start()
+    udp_flood_thread.start()
     DNS_amplification_thread.start()
-    ARP_Spoofing_Thread.start()
+    arp_spoofing_thread.start()
+    http_flood_thread.start()
+    ssh_bruteforce_thread.start()
 
     # This is used to make sure that the main program waits for their completion 
-    SYN_Flodd_Thread.join()
-    Port_Scan_Thread.join()
-    ICMP_Flood_Thread.join()
-    UDP_Flood_Thread.join()
+    syn_flood_thread.join()
+    port_scanning_thread.join()
+    icmp_flood_thread.join()
+    udp_flood_thread.join()
     DNS_amplification_thread.join()
-    ARP_Spoofing_Thread.join()
+    arp_spoofing_thread.join()
+    http_flood_thread.join()
+    ssh_bruteforce_thread.join()
